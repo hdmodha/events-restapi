@@ -1,10 +1,10 @@
 POST http://localhost:8080/events
 Content-Type: application/json
-Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlbW8yQGRlbW8uY29tIiwiZXhwIjoxNzQzOTQ2NDU5LCJ1c2VySWQiOjB9.gQyEnw50Lq6LmRIaUEopHx1YsxegNBlXlZxK8eiDPOw
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlbW8yQGdtYWlsLmNvbSIsImV4cCI6MTc0Mzk1NzA4MSwidXNlcklkIjowfQ.bV4WZhUycHo39Scu5IS3iBAsD_8CKxb7JnuOPPyHfcs
 
 {
-    "name": "fourth test event",
-    "description": "my fourth test event post request using gin",
-    "location": "nuremberg DE",
+    "name": "third demo event",
+    "description": "my third test event post request using gin",
+    "location": "chemnitz DE",
     "datetime": "2025-04-06T16:00:03.000Z"
 }
